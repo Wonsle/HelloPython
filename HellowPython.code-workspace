@@ -1,0 +1,59 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		// --- Python 環境設定 ---
+		// 預設尋找專案根目錄下的 .venv 虛擬環境
+		"python.defaultInterpreterPath": "${workspaceFolder}/.venv/bin/python",
+		"python.terminal.activateEnvironment": true,
+
+		// --- 編輯器與格式化 (建議配合 Black 或 Ruff) ---
+		"editor.formatOnSave": true,
+		"editor.rulers": [88], // 符合 Black/PEP8 的標準長度
+		"editor.codeActionsOnSave": {
+			"source.organizeImports": "explicit" // 儲存時自動整理 import 順序
+		},
+
+		// --- 檔案過濾 (讓左側檔案總管更乾淨) ---
+		"files.exclude": {
+			"**/.git": true,
+			"**/.svn": true,
+			"**/.hg": true,
+			"**/CVS": true,
+			"**/.DS_Store": true,
+			"**/Thumbs.db": true,
+			"**/__pycache__": true, // 隱藏 Python 編譯快取
+			"**/*.pyc": true,
+			"**/.pytest_cache": true,
+			"**/.venv": false // 建議顯示虛擬環境資料夾，若不想看可改為 true
+		},
+		"search.exclude": {
+			"**/node_modules": true,
+			"**/bower_components": true,
+			"**/*.code-search": true,
+			"**/__pycache__": true,
+			"**/.venv": true // 搜尋時忽略虛擬環境內容
+		},
+
+		// --- Pylance 智慧感知設定 ---
+		"python.analysis.typeCheckingMode": "basic", // 可改為 "off" 或 "strict"
+		"python.analysis.autoImportCompletions": true,
+		"python.analysis.inlayHints.functionReturnTypes": true, // 顯示函數回傳型別提示
+
+		// --- 測試框架設定 (以 Pytest 為例) ---
+		"python.testing.pytestEnabled": true,
+		"python.testing.unittestEnabled": false,
+		"python.testing.pytestArgs": [
+			"tests" // 預設測試資料夾名稱
+		],
+
+		// --- 針對 Python 語言的特定設定 ---
+		"[python]": {
+			"editor.defaultFormatter": "ms-python.python", // 或指定 "ms-python.black-formatter"
+			"editor.tabSize": 4
+		}
+	}
+}
