@@ -35,7 +35,7 @@
     - 加減乘除、取餘數 (`%`)。
     - f-string 格式化：`print(f"Hello, {name}")`。
     - 字串切片 (Slicing)：`text[0:5]`。
-- [ ] **Day 4: 列表 (Lists)**
+- [X] **Day 4: 列表 (Lists)**
     - 建立 List：`my_list = [1, 2, 3]`。
     - 方法：`append()`, `remove()`, `pop()`, `sort()`。
 - [ ] **Day 5: 字典 (Dictionaries)**
