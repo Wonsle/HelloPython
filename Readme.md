@@ -31,7 +31,7 @@
 - [X] **Day 2: 變數與基本資料型態**
     - 整數 (`int`)、浮點數 (`float`)、字串 (`str`)、布林 (`bool`)。
     - 學習變數命名規則 (Snake Case, e.g., `user_name`)。
-- [ ] **Day 3: 數學運算與字串處理**
+- [X] **Day 3: 數學運算與字串處理**
     - 加減乘除、取餘數 (`%`)。
     - f-string 格式化：`print(f"Hello, {name}")`。
     - 字串切片 (Slicing)：`text[0:5]`。
