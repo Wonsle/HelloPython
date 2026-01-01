@@ -24,11 +24,11 @@
 ## 📅 第一週：打好地基 (基礎語法與資料型態)
 *目標：讓電腦聽懂你的指令，熟悉 Python 的語言結構。*
 
-- [ ] **Day 1: 環境建置與 Hello World**
+- [X] **Day 1: 環境建置與 Hello World**
     - 設定 VS Code 環境。
     - 建立第一個檔案 `hello.py`。
     - 終端機執行：`python3 hello.py`。
-- [ ] **Day 2: 變數與基本資料型態**
+- [X] **Day 2: 變數與基本資料型態**
     - 整數 (`int`)、浮點數 (`float`)、字串 (`str`)、布林 (`bool`)。
     - 學習變數命名規則 (Snake Case, e.g., `user_name`)。
 - [ ] **Day 3: 數學運算與字串處理**
