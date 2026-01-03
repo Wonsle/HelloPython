@@ -50,7 +50,7 @@
 ## 🧠 第二週：掌握邏輯 (控制流程與函數)
 *目標：學會控制程式的執行順序，並將重複的程式碼封裝成函數。*
 
-- [ ] **Day 8: 條件判斷 (If / Elif / Else)**
+- [X] **Day 8: 條件判斷 (If / Elif / Else)**
     - 邏輯運算子：`and`, `or`, `not`。
 - [ ] **Day 9: 迴圈 (For Loops)**
     - 遍歷 List 與 Dictionary。
