@@ -41,7 +41,7 @@
 - [X] **Day 5: 字典 (Dictionaries)**
     - Key-Value 概念：`user = {"name": "Alex", "age": 25}`。
     - 讀取與新增資料。
-- [ ] **Day 6: 元組 (Tuples) 與 集合 (Sets)**
+- [X] **Day 6: 元組 (Tuples) 與 集合 (Sets)**
     - Tuple 的不可變性 (Immutable)。
     - 使用 Set 去除 List 中的重複值。
 - [ ] **Day 7: 第一週總複習 & 實作**
