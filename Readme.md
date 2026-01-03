@@ -38,7 +38,7 @@
 - [X] **Day 4: 列表 (Lists)**
     - 建立 List：`my_list = [1, 2, 3]`。
     - 方法：`append()`, `remove()`, `pop()`, `sort()`。
-- [ ] **Day 5: 字典 (Dictionaries)**
+- [X] **Day 5: 字典 (Dictionaries)**
     - Key-Value 概念：`user = {"name": "Alex", "age": 25}`。
     - 讀取與新增資料。
 - [ ] **Day 6: 元組 (Tuples) 與 集合 (Sets)**
