@@ -61,7 +61,7 @@
 * [X] **Day 9: 迴圈 (For Loops)**
   * 遍歷 List 與 Dictionary。
   * `range(start, stop, step)` 的用法。
-* [ ] **Day 10: 迴圈 (While Loops) 與 控制**
+* [X] **Day 10: 迴圈 (While Loops) 與 控制**
   * `while` 迴圈。
   * `break` (跳出) 與 `continue` (跳過這一次)。
 * [ ] **Day 11: 函數基礎 (Functions)**
