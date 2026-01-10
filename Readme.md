@@ -64,7 +64,7 @@
 * [X] **Day 10: 迴圈 (While Loops) 與 控制**
   * `while` 迴圈。
   * `break` (跳出) 與 `continue` (跳過這一次)。
-* [ ] **Day 11: 函數基礎 (Functions)**
+* [X] **Day 11: 函數基礎 (Functions)**
   * `def my_function():`。
   * 參數 (Arguments) 與 回傳值 (Return)。
 * [ ] **Day 12: 進階函數與範圍 (Scope)**
