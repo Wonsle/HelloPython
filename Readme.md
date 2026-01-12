@@ -70,7 +70,7 @@
 * [X] **Day 12: 進階函數與範圍 (Scope)**
   * 全域變數 (Global) vs 區域變數 (Local)。
   * 了解 `*args` (不定長度參數)。
-* [ ] **Day 13: 錯誤處理 (Try / Except)**
+* [X] **Day 13: 錯誤處理 (Try / Except)**
   * 捕捉異常：`ZeroDivisionError`, `ValueError`。
   * 讓程式不會因為一個錯誤就閃退。
 * [ ] **Day 14: 第二週總複習 & 實作**
