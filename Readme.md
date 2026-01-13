@@ -80,7 +80,7 @@
 
 *目標：學會使用外部資源，處理檔案讀寫，並接觸物件導向概念。*
 
-* [ ] **Day 15: 模組 (Modules) 與 Pip**
+* [X] **Day 15: 模組 (Modules) 與 Pip**
   * `import math`, `import random`。
   * MacOS 終端機安裝套件：`pip3 install requests`。
 * [ ] **Day 16: 檔案讀寫 (File I/O)**
