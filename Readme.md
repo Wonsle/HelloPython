@@ -86,7 +86,7 @@
 * [X] **Day 16: 檔案讀寫 (File I/O)**
   * `open()`, `read()`, `write()`。
   * 上下文管理器：`with open('data.txt', 'w') as f:`。
-* [ ] **Day 17: CSV 與 JSON 處理**
+* [X] **Day 17: CSV 與 JSON 處理**
   * 處理試算表資料 (`csv` 模組)。
   * 處理 API 常用的資料格式 (`json` 模組)。
 * [ ] **Day 18: 物件導向 (OOP) - 類別與物件**
