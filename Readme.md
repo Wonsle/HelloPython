@@ -83,7 +83,7 @@
 * [X] **Day 15: 模組 (Modules) 與 Pip**
   * `import math`, `import random`。
   * MacOS 終端機安裝套件：`pip3 install requests`。
-* [ ] **Day 16: 檔案讀寫 (File I/O)**
+* [X] **Day 16: 檔案讀寫 (File I/O)**
   * `open()`, `read()`, `write()`。
   * 上下文管理器：`with open('data.txt', 'w') as f:`。
 * [ ] **Day 17: CSV 與 JSON 處理**
