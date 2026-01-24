@@ -89,10 +89,10 @@
 * [X] **Day 17: CSV 與 JSON 處理**
   * 處理試算表資料 (`csv` 模組)。
   * 處理 API 常用的資料格式 (`json` 模組)。
-* [ ] **Day 18: 物件導向 (OOP) - 類別與物件**
+* [X] **Day 18: 物件導向 (OOP) - 類別與物件**
   * 定義 Class 與 `__init__` 建構式。
   * 實例化 Object。
-* [ ] **Day 19: OOP - 繼承與方法**
+* [X] **Day 19: OOP - 繼承與方法**
   * 父類別與子類別。
   * `self` 關鍵字的意義。
 * [ ] **Day 20: 虛擬環境 (Virtual Environments)**
