@@ -95,10 +95,10 @@
 * [X] **Day 19: OOP - 繼承與方法**
   * 父類別與子類別。
   * `self` 關鍵字的意義。
-* [ ] **Day 20: 虛擬環境 (Virtual Environments)**
+* [X] **Day 20: 虛擬環境 (Virtual Environments)**
   * 建立：`python3 -m venv venv`。
   * 啟動 (Mac)：`source venv/bin/activate`。
-* [ ] **Day 21: 第三週總複習 & 實作**
+* [X] **Day 21: 第三週總複習 & 實作**
   * 📝 **小專案：簡易記帳程式** (使用 Class 管理帳目，並將資料儲存於 CSV 檔案)。
 
 ## 🚀 第四週：實戰應用 (自動化與數據入門)
