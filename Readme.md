@@ -107,7 +107,7 @@
 
 * [X] **Day 22: 網路爬蟲基礎 (Web Scraping)**
   * 使用 `requests` 抓取網頁 HTML。
-* [ ] **Day 23: 解析網頁數據**
+* [X] **Day 23: 解析網頁數據**
   * 使用 `BeautifulSoup` 抓取特定標籤 (如新聞標題)。
 * [ ] **Day 24: 數據分析入門 (Pandas)**
   * `pip3 install pandas`。
